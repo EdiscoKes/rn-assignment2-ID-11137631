@@ -10,5 +10,4 @@
 
 ## Screenshot
 
-![Screenshot](./reactScreen shot.jpg)
-
+![reactScreen shot](https://github.com/EdiscoKes/rn-assignment2-ID-11137631/assets/151837632/e2ce65b4-0fac-4b0d-8b0c-c97be1b80f7a)
